@@ -1,0 +1,2 @@
+# Drum-Kit JS Game
+This project is a simple drum kit created using HTML, CSS, and JavaScript. It allows users to play different drum sounds by pressing corresponding keys on the keyboard. Each key is associated with a specific drum sound, and when a key is pressed, the associated sound is played along with a visual animation on the screen.
